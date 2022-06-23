@@ -1,3 +1,3 @@
 # Machine-Learning
-## LAB 1 ##
+## LAB 2 ##
 Simple linear regression.
