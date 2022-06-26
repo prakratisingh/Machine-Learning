@@ -1,9 +1,9 @@
 # Machine-Learning
 ## LAB 2 ##
-Simple linear regression.
+Simple Linear Regression.
 ## LAB 3 ##
-Multiple linear regression
+Multiple Linear Regression
 ## LAB 4 ##
 Ridge Regression
 ## LAB 5 ##
-Lasso Regressio
+Lasso Regression
