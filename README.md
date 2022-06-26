@@ -5,3 +5,5 @@ Simple linear regression.
 Multiple linear regression
 ## LAB 4 ##
 Ridge Regression
+## LAB 5 ##
+Lasso Regressio
