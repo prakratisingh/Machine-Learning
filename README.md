@@ -1,4 +1,6 @@
 # Machine-Learning-Labwork
+## LAB 1 ##
+Python basics for ML
 ## LAB 2 ##
 Simple Linear Regression.
 ## LAB 3 ##
