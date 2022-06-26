@@ -1,4 +1,4 @@
-# Machine-Learning
+# Machine-Learning-Labwork
 ## LAB 2 ##
 Simple Linear Regression.
 ## LAB 3 ##
