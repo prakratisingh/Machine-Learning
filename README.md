@@ -11,3 +11,5 @@ Ridge Regression
 Lasso Regression
 ## LAB 6 ##
 Classification
+## LAB 7 ##
+Logistic Regression
