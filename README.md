@@ -9,3 +9,5 @@ Multiple Linear Regression
 Ridge Regression
 ## LAB 5 ##
 Lasso Regression
+## LAB 6 ##
+Classification
