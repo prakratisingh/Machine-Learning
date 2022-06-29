@@ -14,4 +14,4 @@ Classification
 ## LAB 7 ##
 Logistic Regression
 ## LAB 8 ##
-Decision Tress
+Decision Trees
