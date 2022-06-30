@@ -15,3 +15,5 @@ Classification
 Logistic Regression
 ## LAB 8 ##
 Decision Trees
+## LAB 9 ##
+Random Forest
