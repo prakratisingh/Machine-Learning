@@ -17,3 +17,5 @@ Logistic Regression
 Decision Trees
 ## LAB 9 ##
 Random Forest
+## LAB 10 ##
+Artificial Neural Networks
