@@ -19,3 +19,5 @@ Decision Trees
 Random Forest
 ## LAB 10 ##
 Artificial Neural Networks
+## LAB 11 ##
+Support Vector Machines
