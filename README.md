@@ -22,4 +22,4 @@ Artificial Neural Networks
 ## LAB 11 ##
 Support Vector Machines
 ## LAB 12 ##
-K-Means Clustering algorithm
+K-Means Clustering 
